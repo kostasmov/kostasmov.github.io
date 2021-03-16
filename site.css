@@ -79,3 +79,6 @@ p {
     text-align: right;
     font-weight: 100;
 }
+.video {
+    display: none;
+}
